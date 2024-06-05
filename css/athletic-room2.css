@@ -1,0 +1,440 @@
+.apc-innovation-center-of-nu-1-icon67 {
+  width: 212px;
+  position: relative;
+  height: 97px;
+  object-fit: cover;
+}
+.header-child5 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  height: 23px;
+}
+.header22 {
+  width: 1366px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+}
+.body-child,
+.body-item {
+  position: absolute;
+  left: 0;
+}
+.body-child {
+  height: 28.83%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 71.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.body-item {
+  top: 437px;
+  width: 1366px;
+  height: 743px;
+}
+.date-and-time8,
+.reason-for-the4 {
+  position: absolute;
+  top: 537px;
+  left: 740px;
+  display: inline-block;
+  width: 579px;
+  height: 67px;
+}
+.reason-for-the4 {
+  top: 704px;
+  left: 390px;
+}
+.specified-room8 {
+  top: 537px;
+  left: 143px;
+  width: 315px;
+  height: 62px;
+}
+.athletic-room5,
+.booking13,
+.specified-room8 {
+  position: absolute;
+  display: inline-block;
+}
+.athletic-room5 {
+  top: 136px;
+  left: 503px;
+  font-size: var(--font-size-31xl);
+  line-height: 48px;
+  text-align: left;
+  width: 397px;
+  height: 61px;
+}
+.booking13 {
+  top: 195px;
+  left: 488px;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+  width: 370px;
+  height: 62px;
+}
+.body-inner {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  width: 1366px;
+  height: 99px;
+}
+.body-child1 {
+  position: absolute;
+  top: 398px;
+  left: 685px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 58.9px;
+}
+.body-child2 {
+  position: absolute;
+  top: 355.5px;
+  left: 843px;
+  border-radius: var(--br-5xs);
+  width: 352.1px;
+  height: 108px;
+}
+.booking-details4,
+.details8 {
+  position: absolute;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+}
+.details8 {
+  top: 369px;
+  left: 254px;
+  color: var(--color-darkslategray);
+  width: 195px;
+  height: 29px;
+}
+.booking-details4 {
+  top: 450px;
+  left: 314px;
+  width: 680px;
+  height: 137px;
+}
+.body-child3 {
+  position: absolute;
+  top: 1145px;
+  left: 0;
+  width: 1366px;
+  height: 35px;
+}
+.confirmation9,
+.if-all-of4 {
+  position: absolute;
+  display: inline-block;
+}
+.confirmation9 {
+  top: 366px;
+  left: 832px;
+  font-size: var(--font-size-29xl);
+  width: 384px;
+  height: 78px;
+}
+.if-all-of4 {
+  top: 907px;
+  left: 126px;
+  width: 1148px;
+  height: 62px;
+}
+.vector-icon23 {
+  width: 18px;
+  height: 19.6px;
+}
+.reserve9,
+.vector-icon23 {
+  position: relative;
+}
+.reserve8 {
+  position: absolute;
+  top: 1008px;
+  left: 303px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-olivedrab);
+  width: 277px;
+  height: 73px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--small-text);
+}
+.vector-icon24 {
+  width: 21px;
+  position: relative;
+  height: 18px;
+}
+.back4 {
+  position: absolute;
+  top: 1009px;
+  left: 843px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-maroon);
+  width: 277px;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-10xs);
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--small-text);
+}
+.body1 {
+  align-self: stretch;
+  position: relative;
+  height: 1180px;
+}
+.footer-bg-icon50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 553px;
+}
+.apc-believes-that50 {
+  position: absolute;
+  top: 195px;
+  left: 67px;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 345px;
+  height: 96px;
+}
+.fb-icon50,
+.insta-icon50,
+.linkedin-icoon-icon50,
+.twitter-icon50 {
+  position: absolute;
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 20.4%;
+  bottom: 23.89%;
+  left: 77.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fb-icon50,
+.linkedin-icoon-icon50,
+.twitter-icon50 {
+  right: 27.74%;
+  left: 70.48%;
+}
+.linkedin-icoon-icon50,
+.twitter-icon50 {
+  height: 4.21%;
+  width: 2%;
+  top: 71.7%;
+  right: 23.96%;
+  bottom: 24.09%;
+  left: 74.04%;
+}
+.linkedin-icoon-icon50 {
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 16.84%;
+  bottom: 23.89%;
+  left: 81.38%;
+}
+.copyright-201950 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.copy-right2,
+.footer-inner {
+  position: absolute;
+  box-sizing: border-box;
+}
+.copy-right2 {
+  top: 491px;
+  left: 47px;
+  width: 470px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  font-size: var(--small-text-size);
+}
+.footer-inner {
+  top: 478.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  width: 1367px;
+  height: 1px;
+}
+.apc-innovation-center-of-nu-1-icon68 {
+  position: absolute;
+  top: 32px;
+  left: 48px;
+  width: 194px;
+  height: 123px;
+  object-fit: cover;
+}
+.rams-video-still-removebg-prev-icon26 {
+  position: absolute;
+  top: 470px;
+  left: 1275px;
+  width: 90.3px;
+  height: 83.8px;
+  object-fit: contain;
+}
+.senior-high-school101 {
+  color: inherit;
+}
+.senior-high-school100 {
+  margin: 0;
+}
+.our-schools50,
+.senior-high-school-container50 {
+  position: absolute;
+  left: 678px;
+  line-height: 20px;
+  display: inline-block;
+}
+.senior-high-school-container50 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 186px;
+  height: 341px;
+}
+.our-schools50 {
+  top: 71px;
+  width: 140px;
+  height: 21px;
+}
+.about-us-news-container50,
+.quick-links50 {
+  position: absolute;
+  left: 516px;
+  line-height: 20px;
+  display: inline-block;
+}
+.about-us-news-container50 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 106px;
+  height: 180px;
+}
+.quick-links50 {
+  top: 71px;
+  width: 124px;
+  height: 21px;
+}
+.contact-us50,
+.phone-63-917-container100,
+.phone-63-933-container50 {
+  width: 153px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 29.3px;
+  flex-shrink: 0;
+}
+.phone-63-917-container100,
+.phone-63-933-container50 {
+  width: 182px;
+  height: 22px;
+}
+.phone-63-933-container50 {
+  width: 222px;
+  font-weight: 300;
+}
+.phone50 {
+  font-weight: 500;
+}
+.span100 {
+  font-weight: 300;
+}
+.phone-63-917-container101 {
+  width: 222px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 22px;
+  flex-shrink: 0;
+}
+.email-admissionsapceduph50 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.contact-info50,
+.frame8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame8 {
+  align-self: stretch;
+  overflow: hidden;
+  justify-content: center;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-mini);
+}
+.contact-info50 {
+  position: absolute;
+  top: 71px;
+  left: 926px;
+  width: 294px;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.athletic-room4,
+.footer50 {
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.footer50 {
+  width: 1366px;
+  height: 553px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+}
+.athletic-room4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

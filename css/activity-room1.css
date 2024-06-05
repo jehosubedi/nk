@@ -1,0 +1,439 @@
+.apc-innovation-center-of-nu-1-icon79 {
+  width: 212px;
+  position: relative;
+  height: 97px;
+  object-fit: cover;
+}
+.header-child11 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  height: 23px;
+}
+.header30 {
+  width: 1366px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+}
+.image-10-icon {
+  position: absolute;
+  height: 28.81%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 71.19%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.body-child22 {
+  position: absolute;
+  top: 437px;
+  left: 0;
+  width: 1366px;
+  height: 743px;
+}
+.date-and-time10,
+.reason-for-the6 {
+  position: absolute;
+  top: 537px;
+  left: 740px;
+  display: inline-block;
+  width: 579px;
+  height: 67px;
+}
+.reason-for-the6 {
+  top: 704px;
+  left: 390px;
+}
+.specified-room12 {
+  top: 537px;
+  left: 143px;
+  width: 315px;
+  height: 62px;
+}
+.activity-room6,
+.booking19,
+.specified-room12 {
+  position: absolute;
+  display: inline-block;
+}
+.activity-room6 {
+  top: 136px;
+  left: 503px;
+  font-size: var(--font-size-31xl);
+  line-height: 48px;
+  text-align: left;
+  width: 397px;
+  height: 61px;
+}
+.booking19 {
+  top: 195px;
+  left: 488px;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+  width: 370px;
+  height: 62px;
+}
+.body-child23 {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  width: 1366px;
+  height: 99px;
+}
+.body-child24 {
+  position: absolute;
+  top: 398px;
+  left: 685px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 58.9px;
+}
+.body-child25 {
+  position: absolute;
+  top: 355.5px;
+  left: 843px;
+  border-radius: var(--br-5xs);
+  width: 352.1px;
+  height: 108px;
+}
+.booking-details6,
+.details12 {
+  position: absolute;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+}
+.details12 {
+  top: 369px;
+  left: 254px;
+  color: var(--color-darkslategray);
+  width: 195px;
+  height: 29px;
+}
+.booking-details6 {
+  top: 450px;
+  left: 314px;
+  width: 680px;
+  height: 137px;
+}
+.body-child26 {
+  position: absolute;
+  top: 1145px;
+  left: 0;
+  width: 1366px;
+  height: 35px;
+}
+.confirmation13,
+.if-all-of6 {
+  position: absolute;
+  display: inline-block;
+}
+.confirmation13 {
+  top: 366px;
+  left: 832px;
+  font-size: var(--font-size-29xl);
+  width: 384px;
+  height: 78px;
+}
+.if-all-of6 {
+  top: 907px;
+  left: 126px;
+  width: 1148px;
+  height: 62px;
+}
+.vector-icon31 {
+  width: 18px;
+  height: 19.6px;
+}
+.reserve13,
+.vector-icon31 {
+  position: relative;
+}
+.reserve12 {
+  position: absolute;
+  top: 1008px;
+  left: 303px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-olivedrab);
+  width: 277px;
+  height: 73px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--small-text);
+}
+.vector-icon32 {
+  width: 21px;
+  position: relative;
+  height: 18px;
+}
+.back6 {
+  position: absolute;
+  top: 1009px;
+  left: 843px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-maroon);
+  width: 277px;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-10xs);
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--small-text);
+}
+.body7 {
+  align-self: stretch;
+  position: relative;
+  height: 1180px;
+}
+.footer-bg-icon56 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 553px;
+}
+.apc-believes-that56 {
+  position: absolute;
+  top: 195px;
+  left: 67px;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 345px;
+  height: 96px;
+}
+.fb-icon56,
+.insta-icon56,
+.linkedin-icoon-icon56,
+.twitter-icon56 {
+  position: absolute;
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 20.4%;
+  bottom: 23.89%;
+  left: 77.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fb-icon56,
+.linkedin-icoon-icon56,
+.twitter-icon56 {
+  right: 27.74%;
+  left: 70.48%;
+}
+.linkedin-icoon-icon56,
+.twitter-icon56 {
+  height: 4.21%;
+  width: 2%;
+  top: 71.7%;
+  right: 23.96%;
+  bottom: 24.09%;
+  left: 74.04%;
+}
+.linkedin-icoon-icon56 {
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 16.84%;
+  bottom: 23.89%;
+  left: 81.38%;
+}
+.copyright-201956 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.copy-right8,
+.footer-child6 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.copy-right8 {
+  top: 491px;
+  left: 47px;
+  width: 470px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  font-size: var(--small-text-size);
+}
+.footer-child6 {
+  top: 478.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  width: 1367px;
+  height: 1px;
+}
+.apc-innovation-center-of-nu-1-icon80 {
+  position: absolute;
+  top: 32px;
+  left: 48px;
+  width: 194px;
+  height: 123px;
+  object-fit: cover;
+}
+.rams-video-still-removebg-prev-icon32 {
+  position: absolute;
+  top: 470px;
+  left: 1275px;
+  width: 90.3px;
+  height: 83.8px;
+  object-fit: contain;
+}
+.senior-high-school113 {
+  color: inherit;
+}
+.senior-high-school112 {
+  margin: 0;
+}
+.our-schools56,
+.senior-high-school-container56 {
+  position: absolute;
+  left: 678px;
+  line-height: 20px;
+  display: inline-block;
+}
+.senior-high-school-container56 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 186px;
+  height: 341px;
+}
+.our-schools56 {
+  top: 71px;
+  width: 140px;
+  height: 21px;
+}
+.about-us-news-container56,
+.quick-links56 {
+  position: absolute;
+  left: 516px;
+  line-height: 20px;
+  display: inline-block;
+}
+.about-us-news-container56 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 106px;
+  height: 180px;
+}
+.quick-links56 {
+  top: 71px;
+  width: 124px;
+  height: 21px;
+}
+.contact-us56,
+.phone-63-917-container112,
+.phone-63-933-container56 {
+  width: 153px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 29.3px;
+  flex-shrink: 0;
+}
+.phone-63-917-container112,
+.phone-63-933-container56 {
+  width: 182px;
+  height: 22px;
+}
+.phone-63-933-container56 {
+  width: 222px;
+  font-weight: 300;
+}
+.phone56 {
+  font-weight: 500;
+}
+.span112 {
+  font-weight: 300;
+}
+.phone-63-917-container113 {
+  width: 222px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 22px;
+  flex-shrink: 0;
+}
+.email-admissionsapceduph56 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.contact-info56,
+.frame20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame20 {
+  align-self: stretch;
+  overflow: hidden;
+  justify-content: center;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-mini);
+}
+.contact-info56 {
+  position: absolute;
+  top: 71px;
+  left: 926px;
+  width: 294px;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.activity-room5,
+.footer56 {
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.footer56 {
+  width: 1366px;
+  height: 553px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+}
+.activity-room5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

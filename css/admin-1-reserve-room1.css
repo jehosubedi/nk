@@ -1,0 +1,179 @@
+.background-icon1 {
+  position: absolute;
+  top: 271px;
+  left: 0;
+  width: 1366px;
+  height: 59px;
+}
+.id-number2,
+.name2,
+.reason2 {
+  width: 272px;
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.name2,
+.reason2 {
+  width: 250px;
+  height: 18px;
+}
+.reason2 {
+  width: 764px;
+  height: 120px;
+}
+.field1,
+.multi-line-paragraph-input1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field1 {
+  align-self: stretch;
+  flex: 1;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-200);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.multi-line-paragraph-input1 {
+  position: absolute;
+  top: 339px;
+  left: 17px;
+  width: 1333px;
+  height: 1094px;
+  flex-direction: column;
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.add-roomscustomize-room,
+.room-classification,
+.room-floor,
+.room-name {
+  position: absolute;
+  top: 195px;
+  left: 54px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  width: 667px;
+  height: 40px;
+}
+.room-classification,
+.room-floor,
+.room-name {
+  top: 288px;
+  left: 102px;
+  font-size: var(--font-size-xl);
+  width: 186px;
+  height: 31px;
+}
+.room-classification,
+.room-floor {
+  left: 376px;
+  width: 195px;
+  height: 40px;
+}
+.room-classification {
+  top: 290px;
+  left: 850px;
+  width: 228px;
+}
+.apc-innovation-center-of-nu-1-icon63 {
+  position: absolute;
+  top: calc(50% - 48.5px);
+  left: calc(50% - 678px);
+  width: 250px;
+  height: 100px;
+  object-fit: cover;
+}
+.header-child2,
+.header18,
+.main-header14 {
+  position: absolute;
+  top: 0;
+  width: 1356px;
+  height: 119px;
+}
+.main-header14 {
+  left: 0;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+}
+.header-child2,
+.header18 {
+  left: 11px;
+}
+.header-child2 {
+  top: 119px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkslateblue);
+  width: 1370px;
+  height: 39px;
+}
+.header17 {
+  position: absolute;
+  top: 0;
+  left: -17px;
+  width: 1367px;
+  height: 158px;
+}
+.add {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.button3,
+.button4,
+.button5,
+.button6 {
+  position: absolute;
+  top: 187px;
+  left: 1092px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gold-100);
+  width: 243px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  color: var(--color-white);
+}
+.button4,
+.button5,
+.button6 {
+  top: 45px;
+  left: 721px;
+  background-color: var(--color-darkslateblue);
+  width: 155px;
+  height: 46px;
+}
+.button5,
+.button6 {
+  left: 888px;
+  width: 262px;
+}
+.button6 {
+  left: 1155px;
+  width: 185px;
+}
+.admin-1-reserve-room1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1451px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--small-text-size);
+  color: var(--color-black);
+  font-family: var(--small-text);
+}

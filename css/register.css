@@ -1,0 +1,163 @@
+.register {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1366px;
+    height: 844px;
+  }
+  
+  .register .overlap {
+    position: relative;
+    height: 844px;
+    background-image: url(./img/rectangle.png);
+    background-size: 100% 100%;
+  }
+  
+  .register .first-page-image {
+    position: absolute;
+    width: 1366px;
+    height: 844px;
+    top: 0;
+    left: 0;
+  }
+  
+  .register .vector {
+    position: absolute;
+    width: 609px;
+    height: 609px;
+    top: 144px;
+    left: 397px;
+  }
+  
+  .register .text {
+    display: inline-flex;
+    flex-direction: column;
+    padding: 15px 66px;
+    top: 339px;
+    left: 411px;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .register .text-wrapper {
+    position: relative;
+    width: 462px;
+    height: 145px;
+    margin-top: -1px;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #fcc60f;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .register .div {
+    position: relative;
+    width: 446px;
+    height: 30px;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .register .logo {
+    position: absolute;
+    width: 222px;
+    height: 185px;
+    top: 154px;
+    left: 590px;
+  }
+  
+  .register .overlap-group {
+    position: relative;
+    height: 185px;
+  }
+  
+  .register .ellipse {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    top: 0;
+    left: 24px;
+    background-color: #ffffff;
+    border-radius: 90px;
+  }
+  
+  .register .image-removebg {
+    position: absolute;
+    width: 222px;
+    height: 181px;
+    top: 4px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .register .frame {
+    display: flex;
+    width: 324px;
+    height: 60px;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 10px 75px;
+    position: absolute;
+    top: 625px;
+    left: 539px;
+    background-color: #fcc610;
+    border-radius: 25px;
+    overflow: hidden;
+  }
+  
+  .register .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .register .text-field {
+    display: flex;
+    width: 324px;
+    justify-content: center;
+    gap: 10px;
+    padding: 15px 20px;
+    top: 559px;
+    left: 539px;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+    border: 1px solid;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .register .text-field-2 {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #a6a6a6;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

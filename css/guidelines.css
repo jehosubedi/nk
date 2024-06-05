@@ -1,0 +1,453 @@
+.white-background5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1356px;
+  height: 1444px;
+}
+.building-maintenance-office {
+  position: absolute;
+  top: 0;
+  left: 190px;
+  font-size: var(--font-size-19xl);
+  font-weight: 800;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 590px;
+  height: 67px;
+}
+.am-500,
+.am-800 {
+  position: absolute;
+  top: 459px;
+  left: 131px;
+  font-size: var(--font-size-mid);
+  line-height: 48px;
+  display: inline-block;
+  width: 258px;
+  height: 42px;
+}
+.am-500 {
+  left: 559px;
+}
+.the-building-maintenance {
+  margin: 0;
+}
+.office-hours,
+.the-building-maintenance-container {
+  position: absolute;
+  font-weight: 300;
+  text-align: center;
+}
+.the-building-maintenance-container {
+  top: 170px;
+  left: calc(50% - 383.5px);
+  display: inline-block;
+  width: 843px;
+  height: 154px;
+}
+.office-hours {
+  top: 352px;
+  left: 0;
+}
+.royal-blue-glossy-contact-wall {
+  position: absolute;
+  top: 392px;
+  left: 56px;
+  width: 803px;
+  height: 45px;
+  object-fit: cover;
+}
+.saturdays,
+.weekdays {
+  position: absolute;
+  top: 409px;
+  left: 174px;
+  line-height: 20px;
+  font-weight: 300;
+  color: var(--color-white);
+}
+.saturdays {
+  top: 404px;
+  left: 582px;
+}
+.main-inner,
+.main-item {
+  position: absolute;
+  top: 391.5px;
+  left: 55.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 135px;
+}
+.main-inner {
+  top: 395.5px;
+  left: 858.5px;
+  height: 132px;
+}
+.main-child1,
+.main-child2 {
+  position: absolute;
+  top: 396px;
+  left: 426px;
+  width: 1px;
+  height: 130px;
+  object-fit: contain;
+}
+.main-child2 {
+  top: 521px;
+  left: 56px;
+  width: 803px;
+  height: 12px;
+}
+.main1 {
+  position: absolute;
+  top: 196px;
+  left: 190px;
+  width: 919px;
+  height: 533px;
+}
+.footer-bg-icon62 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 553px;
+}
+.apc-believes-that62 {
+  position: absolute;
+  top: 195px;
+  left: 67px;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 345px;
+  height: 96px;
+}
+.fb-icon62,
+.insta-icon62,
+.linkedin-icoon-icon62,
+.twitter-icon62 {
+  position: absolute;
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 20.4%;
+  bottom: 23.89%;
+  left: 77.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fb-icon62,
+.linkedin-icoon-icon62,
+.twitter-icon62 {
+  right: 27.74%;
+  left: 70.48%;
+}
+.linkedin-icoon-icon62,
+.twitter-icon62 {
+  height: 4.21%;
+  width: 2%;
+  top: 71.7%;
+  right: 23.96%;
+  bottom: 24.09%;
+  left: 74.04%;
+}
+.linkedin-icoon-icon62 {
+  height: 4.59%;
+  width: 1.78%;
+  top: 71.52%;
+  right: 16.84%;
+  bottom: 23.89%;
+  left: 81.38%;
+}
+.copyright-201962 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.copy-right14,
+.footer-child12 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.copy-right14 {
+  top: 491px;
+  left: 47px;
+  width: 470px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  font-size: var(--small-text-size);
+}
+.footer-child12 {
+  top: 478.5px;
+  left: -1.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  width: 1367px;
+  height: 1px;
+}
+.apc-innovation-center-of-nu-1-icon91 {
+  position: absolute;
+  top: 32px;
+  left: 48px;
+  width: 194px;
+  height: 123px;
+  object-fit: cover;
+}
+.rams-video-still-removebg-prev-icon38 {
+  position: absolute;
+  top: 470px;
+  left: 1275px;
+  width: 90.3px;
+  height: 83.8px;
+  object-fit: contain;
+}
+.senior-high-school125 {
+  color: inherit;
+}
+.our-schools62,
+.senior-high-school-container62 {
+  position: absolute;
+  left: 678px;
+  line-height: 20px;
+  display: inline-block;
+}
+.senior-high-school-container62 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 186px;
+  height: 341px;
+}
+.our-schools62 {
+  top: 71px;
+  width: 140px;
+  height: 21px;
+}
+.about-us-news-container62,
+.quick-links62 {
+  position: absolute;
+  left: 516px;
+  line-height: 20px;
+  display: inline-block;
+}
+.about-us-news-container62 {
+  top: 128px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 106px;
+  height: 180px;
+}
+.quick-links62 {
+  top: 71px;
+  width: 124px;
+  height: 21px;
+}
+.contact-us62,
+.phone-63-917-container124,
+.phone-63-933-container62 {
+  width: 153px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 29.3px;
+  flex-shrink: 0;
+}
+.phone-63-917-container124,
+.phone-63-933-container62 {
+  width: 182px;
+  height: 22px;
+}
+.phone-63-933-container62 {
+  width: 222px;
+  font-weight: 300;
+}
+.phone62 {
+  font-weight: 500;
+}
+.span124 {
+  font-weight: 300;
+}
+.phone-63-917-container125 {
+  width: 222px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  height: 22px;
+  flex-shrink: 0;
+}
+.email-admissionsapceduph62 {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.contact-info62,
+.frame31 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame31 {
+  align-self: stretch;
+  overflow: hidden;
+  justify-content: center;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-mini);
+}
+.contact-info62 {
+  position: absolute;
+  top: 71px;
+  left: 926px;
+  width: 294px;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.footer62 {
+  position: absolute;
+  top: 891px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1365px;
+  height: 553px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+}
+.apc-innovation-center-of-nu-1-icon92 {
+  width: 250px;
+  position: relative;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.guild-lines48 {
+  position: relative;
+  font-weight: 600;
+}
+.feedback33,
+.feedback34 {
+  display: flex;
+  flex-direction: row;
+}
+.feedback34 {
+  width: 170px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+}
+.feedback33 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facilities166,
+.feedback32 {
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+}
+.feedback32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facilities166 {
+  width: 170px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+}
+.facilities165 {
+  position: absolute;
+  top: 0;
+  left: 413px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.facilities165,
+.guild-lines49,
+.guild-lines50 {
+  display: flex;
+  flex-direction: row;
+}
+.guild-lines50 {
+  width: 170px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkslateblue);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-11xl);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.guild-lines49 {
+  position: absolute;
+  top: 0;
+  left: 213px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header40 {
+  width: 583px;
+  position: relative;
+  height: 44px;
+}
+.main-header21 {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xs) 0 var(--padding-5xs);
+  gap: var(--gap-467xl);
+}
+.header-child17 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  height: 23px;
+  margin-top: -5px;
+}
+.header39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.guidelines {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  height: 1444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

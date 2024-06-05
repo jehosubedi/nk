@@ -1,0 +1,219 @@
+.apc-innovation-center-of-nu-1-icon62 {
+  position: absolute;
+  top: calc(50% - 48.5px);
+  left: calc(50% - 678px);
+  width: 250px;
+  height: 100px;
+  object-fit: cover;
+}
+.header-child1,
+.header16,
+.main-header13 {
+  position: absolute;
+  top: 0;
+  width: 1356px;
+  height: 119px;
+}
+.main-header13 {
+  left: 0;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+}
+.header-child1,
+.header16 {
+  left: 11px;
+}
+.header-child1 {
+  top: 119px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkslateblue);
+  width: 1370px;
+  height: 39px;
+}
+.background-icon,
+.header15 {
+  position: absolute;
+  top: 0;
+  left: -17px;
+  width: 1367px;
+  height: 158px;
+}
+.background-icon {
+  top: 271px;
+  left: 0;
+  width: 1366px;
+  height: 59px;
+}
+.end-time,
+.id-number,
+.name,
+.reason,
+.room,
+.start-time {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.id-number {
+  width: 242px;
+  text-align: left;
+}
+.end-time,
+.name,
+.reason,
+.room,
+.start-time {
+  height: 1064px;
+}
+.name {
+  width: 205px;
+  text-align: left;
+}
+.end-time,
+.reason,
+.room,
+.start-time {
+  width: 150px;
+}
+.end-time,
+.reason,
+.start-time {
+  width: 138px;
+}
+.end-time,
+.reason {
+  width: 120px;
+}
+.reason {
+  width: 422px;
+}
+.field,
+.multi-line-paragraph-input {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.field {
+  align-self: stretch;
+  flex: 1;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-200);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-base);
+  gap: var(--gap-5xs);
+}
+.multi-line-paragraph-input {
+  position: absolute;
+  top: 339px;
+  left: 17px;
+  width: 1333px;
+  height: 1094px;
+  flex-direction: column;
+  text-align: center;
+  font-size: var(--small-text-size);
+  color: var(--color-gray-100);
+  font-family: var(--small-text);
+}
+.all-reserve-rooms,
+.id-number1,
+.name1,
+.room1 {
+  position: absolute;
+  left: 54px;
+  display: inline-block;
+}
+.all-reserve-rooms {
+  top: 195px;
+  font-size: var(--font-size-13xl);
+  width: 347px;
+  height: 40px;
+}
+.id-number1,
+.name1,
+.room1 {
+  top: 290px;
+  width: 125px;
+  height: 31px;
+}
+.name1,
+.room1 {
+  top: 288px;
+  left: 351px;
+  width: 195px;
+  height: 40px;
+}
+.room1 {
+  top: 289px;
+  left: 536px;
+}
+.start {
+  top: 291px;
+  left: 683px;
+}
+.end,
+.reason1,
+.start {
+  position: absolute;
+  display: inline-block;
+  width: 195px;
+  height: 40px;
+}
+.end {
+  top: 290px;
+  left: 839px;
+  white-space: pre-wrap;
+}
+.reason1 {
+  top: 288px;
+  left: 1088px;
+}
+.reserve-rooms {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.button,
+.button1,
+.button2 {
+  position: absolute;
+  top: 47px;
+  left: 723px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslateblue);
+  width: 155px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-5xl);
+  box-sizing: border-box;
+  font-size: var(--small-text-size);
+  color: var(--color-white);
+  font-family: var(--small-text);
+}
+.button1,
+.button2 {
+  left: 890px;
+  width: 262px;
+}
+.button2 {
+  left: 1157px;
+  width: 185px;
+}
+.admin-1-reserve-room {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1451px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
